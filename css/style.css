@@ -77,7 +77,7 @@ a:focus, a:hover {
 
 /*-- banner-slider --*/
 .w3layouts-banner-top{
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/weng3.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -86,7 +86,7 @@ a:focus, a:hover {
 	min-height:794px;
 }
 .w3layouts-banner-top1{
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../images/weng2.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -94,7 +94,7 @@ a:focus, a:hover {
 	-moz-background-size: cover;
 }
 .w3layouts-banner-top2{
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/weng1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -193,7 +193,7 @@ h6.subheading-w3ls {
 	min-height:687px;
 }
 .grids-middle2-w3l{
-    background: url(../images/b2.jpg) no-repeat 0px 0px;
+    background: url(../images/school.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -473,16 +473,16 @@ a.view:hover{
 .footercopy-social ul li a span.fa.fa-facebook:hover {
     opacity: 0.8;
 }
-.footercopy-social ul li a span.fa.fa-twitter {
-    background: #1da1f2;
+.footercopy-social ul li a span.fa.fa-instagram {
+    background: #de385f;
 }
-.footercopy-social ul li a span.fa.fa-twitter:hover {
+.footercopy-social ul li a span.fa.fa-instagram:hover {
     opacity: 0.8;
 }
-.footercopy-social ul li a span.fa.fa-rss {
-    background: #f26522;
+.footercopy-social ul li a span.fa.fa-github {
+    background: #000000;
 }
-.footercopy-social ul li a span.fa.fa-rss:hover {
+.footercopy-social ul li a span.fa.fa-github:hover {
     opacity: 0.8;
 }
 .footercopy-social ul li a span.fa.fa-vk {
@@ -740,16 +740,16 @@ ul.w3_short {
 .agileinfo-social-grids ul li a i.fa.fa-facebook {
 	background:#3b5998;
 }
-.agileinfo-social-grids ul li a i.fa.fa-twitter{
-	background:#55acee;
+.agileinfo-social-grids ul li a i.fa.fa-instagram{
+	background:#de385f;
 }
-.agileinfo-social-grids ul li a i.fa.fa-rss{
-	background:#f26522;
+.agileinfo-social-grids ul li a i.fa.fa-github{
+	background:#000000;
 }
 .agileinfo-social-grids ul li a i.fa.fa-vk{
 	background:#45668e;
 }
-.agileinfo-social-grids ul li a i.fa.fa-facebook:hover,.agileinfo-social-grids ul li a i.fa.fa-twitter:hover,.agileinfo-social-grids ul li a i.fa.fa-rss:hover,.agileinfo-social-grids ul li a i.fa.fa-vk:hover{
+.agileinfo-social-grids ul li a i.fa.fa-facebook:hover,.agileinfo-social-grids ul li a i.fa.fa-instagram:hover,.agileinfo-social-grids ul li a i.fa.fa-github:hover,.agileinfo-social-grids ul li a i.fa.fa-vk:hover{
     background: transparent;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
