@@ -101,22 +101,6 @@ a:focus, a:hover {
 	-o-background-size: cover;		
 	-moz-background-size: cover;
 }
-.w3layouts-banner-top3{
-    background: url(../images/5.jpg) no-repeat 0px 0px;
-    background-size: cover;	
-	-webkit-background-size: cover;	
-	-moz-background-size: cover;
-	-o-background-size: cover;		
-	-moz-background-size: cover;
-}
-.w3layouts-banner-top4{
-    background: url(../images/4.jpg) no-repeat 0px 0px;
-    background-size: cover;	
-	-webkit-background-size: cover;	
-	-moz-background-size: cover;
-	-o-background-size: cover;		
-	-moz-background-size: cover;
-}
 .bs-slider-overlay {
     position: absolute;
     top: 0;
